@@ -1,4 +1,5 @@
 #!/bin/bash
+echo" Hi I'm Asharani"
 
 echo "Enter the n value"
 read n
